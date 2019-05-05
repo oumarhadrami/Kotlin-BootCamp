@@ -1,3 +1,3 @@
 # Kotlin-BootCamp 
 
-### All my kotlin programs in Kotlin BOootcamp Udacity
+### All my kotlin programs in Kotlin Bootcamp Udacity
